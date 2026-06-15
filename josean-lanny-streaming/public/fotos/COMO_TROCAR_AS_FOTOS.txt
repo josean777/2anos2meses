@@ -1,7 +1,0 @@
-COMO TROCAR AS FOTOS
-
-1. Coloque suas imagens nesta pasta: public/fotos/
-2. Você pode substituir os arquivos foto-01.svg, foto-02.svg, etc. por fotos reais.
-3. Se usar nomes diferentes, edite os caminhos em: src/data/couple.js
-4. Formatos recomendados: .jpg, .jpeg, .png ou .webp
-5. Para ficar bonito no design, use fotos horizontais para episódios e fotos verticais/quadradas para a galeria.
