@@ -20,7 +20,7 @@ export const episodes = [
     season: 'Temporada 1',
     title: 'O início de tudo',
     duration: '15 abr 2024',
-    image: '/fotos/foto-01.svg',
+    image: '/fotos/foto-01.heic',
     description:
       'O primeiro episódio da nossa história. O dia em que algo simples começou a ganhar forma de destino.'
   },
@@ -29,7 +29,7 @@ export const episodes = [
     season: 'Temporada 1',
     title: 'Quando o coração escolheu ficar',
     duration: 'Capítulo especial',
-    image: '/fotos/foto-02.svg',
+    image: '/fotos/foto-02.JPG',
     description:
       'Entre conversas, carinho e pequenos detalhes, eu percebi que você não era só alguém especial. Você era casa.'
   },
@@ -38,7 +38,7 @@ export const episodes = [
     season: 'Temporada 2',
     title: 'Nossos momentos favoritos',
     duration: 'Top cenas',
-    image: '/fotos/foto-03.svg',
+    image: '/fotos/foto-03.heic',
     description:
       'Cada riso, cada abraço e cada olhar virou cena salva no coração. O tipo de lembrança que nunca perde a qualidade.'
   },
@@ -47,7 +47,7 @@ export const episodes = [
     season: 'Temporada 2',
     title: 'Dois anos e dois meses',
     duration: 'Hoje',
-    image: '/fotos/foto-04.svg',
+    image: '/fotos/foto-04.JPG',
     description:
       'O episódio de hoje é sobre gratidão. Por tudo que vivemos, por tudo que superamos e por tudo que ainda vamos construir.'
   },
@@ -56,7 +56,7 @@ export const episodes = [
     season: 'Próxima temporada',
     title: 'O futuro com você',
     duration: 'Em breve',
-    image: '/fotos/foto-05.svg',
+    image: '/fotos/foto-05.JPG',
     description:
       'A melhor parte da nossa história é que ela ainda está sendo escrita. E eu quero todos os próximos capítulos ao seu lado.'
   }
@@ -70,7 +70,7 @@ export const rows = [
       {
         label: 'Especial de hoje',
         title: '2 anos e 2 meses com você',
-        image: '/fotos/foto-06.svg',
+        image: '/fotos/foto-06.heic',
         meta: 'Romance • Real • Para sempre',
         description:
           'Uma homenagem para a mulher que merece todos os detalhes, todo cuidado e todo amor do mundo.'
@@ -78,7 +78,7 @@ export const rows = [
       {
         label: 'Mais assistido pelo coração',
         title: 'A melhor escolha da minha vida',
-        image: '/fotos/foto-07.svg',
+        image: '/fotos/foto-07.heic',
         meta: 'Favorito • Josean Original',
         description:
           'Se eu pudesse voltar no tempo, escolheria você de novo, com a mesma certeza e ainda mais amor.'
@@ -86,7 +86,7 @@ export const rows = [
       {
         label: 'Novo episódio',
         title: 'Cada dia mais nós',
-        image: '/fotos/foto-08.svg',
+        image: '/fotos/foto-08.heic',
         meta: 'Planos • Sonhos • Nós',
         description:
           'O amor também mora nas pequenas coisas: nas mensagens, no cuidado e no desejo de permanecer.'
@@ -113,10 +113,10 @@ export const rows = [
     title: 'Cenas que merecem replay',
     type: 'gallery',
     items: [
-      { title: 'O olhar', image: '/fotos/foto-09.svg' },
-      { title: 'O abraço', image: '/fotos/foto-10.svg' },
-      { title: 'A promessa', image: '/fotos/foto-11.svg' },
-      { title: 'O para sempre', image: '/fotos/foto-12.svg' }
+      { title: 'O olhar', image: '/fotos/foto-09.JPG' },
+      { title: 'O abraço', image: '/fotos/foto-11.JPG' },
+      { title: 'A promessa', image: '/fotos/foto-12.JPG' },
+      { title: 'O para sempre', image: '/fotos/foto-11.JPG' }
     ]
   }
 ]
