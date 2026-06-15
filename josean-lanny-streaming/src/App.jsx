@@ -252,11 +252,11 @@ function Modal({ item, onClose }) {
         <img src={item.image} alt={item.title} />
         <div className="modal-body">
           <div className="modal-tags">
-            <span><Star fill="currentColor" size={15} /> Destaque</span>
+            <span><Star fill="currentColor" size={15} /> Especial</span>
             <span>{item.duration || item.meta || 'Momento especial'}</span>
           </div>
           <h2>{item.title}</h2>
-          <p>{item.description || 'Uma lembrança que merece replay, pausa e coração cheio.'}</p>
+          <p>{item.description}</p>
         </div>
       </article>
     </div>
@@ -274,7 +274,7 @@ function LetterModal({ onClose }) {
           <Sparkles size={22} />
           <span>Mensagem exclusiva</span>
         </div>
-        <h2>Para Lanny</h2>
+        <h2>Para minha xuazinha</h2>
         <div className="letter-text">
           {letter.split('\n').map((paragraph, index) => (
             <p key={`${paragraph}-${index}`}>{paragraph}</p>
@@ -298,7 +298,7 @@ function Aurora() {
 function Footer() {
   return (
     <footer className="footer">
-      <p>Produção original de Josean para Lanny • {couple.celebration} • Feito para durar mais que qualquer temporada.</p>
+      <p>Produção original de Josean para sua xuazinha • {couple.celebration}</p>
     </footer>
   )
 }

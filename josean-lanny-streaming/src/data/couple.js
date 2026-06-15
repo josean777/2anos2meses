@@ -1,16 +1,16 @@
 export const couple = {
   brand: 'J&L STREAM',
-  subtitle: 'Uma história original de Josean e Lanny',
+  subtitle: 'Uma história original de Josean e sua Princesinha',
   names: 'Josean & Lanny',
   startDate: '2024-04-15T00:00:00-03:00',
   celebration: '2 anos e 2 meses',
   todayLabel: '15 de Junho de 2026',
   heroTitle: 'O amor que virou série, filme e eternidade.',
   heroText:
-    'Hoje não é só uma data. É mais um capítulo do nosso para sempre. Dois anos e dois meses de amor, cuidado, escolhas, risadas, planos e presença.',
+    'Hoje não é só uma data. É mais um capítulo do nosso para sempre. Dois anos e dois meses de amor, cuidado, escolhas, risadas, planos e presença ao lado da minha xuazinha.',
   dedication:
-    'Lanny, você merece muito mais do que uma homenagem bonita. Merece ser lembrada como a melhor parte da minha vida, aquela que transforma dias comuns em cenas inesquecíveis.',
-  profileName: 'Lanny',
+    'Minha lindona, você merece muito mais do que uma homenagem bonita. Merece ser lembrada como a melhor parte da minha vida, aquela que transforma dias comuns em cenas inesquecíveis.',
+  profileName: 'Lannynha',
   pin: '1504'
 }
 
@@ -79,7 +79,7 @@ export const rows = [
         label: 'Mais assistido pelo coração',
         title: 'A melhor escolha da minha vida',
         image: '/fotos/foto-07.heic',
-        meta: 'Favorito • Josean Original',
+        meta: 'Favorito da minha vida',
         description:
           'Se eu pudesse voltar no tempo, escolheria você de novo, com a mesma certeza e ainda mais amor.'
       },
@@ -114,11 +114,11 @@ export const rows = [
     type: 'gallery',
     items: [
       { title: 'O olhar', image: '/fotos/foto-09.JPG' },
-      { title: 'O abraço', image: '/fotos/foto-11.JPG' },
-      { title: 'A promessa', image: '/fotos/foto-12.JPG' },
-      { title: 'O para sempre', image: '/fotos/foto-11.JPG' }
+      { title: 'O Sorriso', image: '/fotos/foto-sorriso.jpg' },
+      { title: 'A promessa', image: '/fotos/foto-11.JPG' },
+      { title: 'O para sempre', image: '/fotos/foto-12.JPG' }
     ]
   }
 ]
 
-export const letter = `Minha Lanny,\n\nHoje completamos 2 anos e 2 meses. E mesmo que pareça muito tempo, dentro de mim ainda existe a sensação bonita de estar descobrindo você todos os dias.\n\nEu queria fazer algo diferente porque você merece. Merece cuidado, atenção, amor e uma homenagem que mostre o quanto você é importante para mim. Você não é só parte da minha rotina; você é parte dos meus planos, das minhas orações, dos meus sonhos e da pessoa que eu quero me tornar.\n\nObrigado por cada momento, por cada detalhe, por cada fase que passamos juntos. Que esse seja só mais um episódio de uma história enorme, linda e verdadeira.\n\nEu te amo muito.\n\nCom amor,\nJosean.`
+export const letter = `Minha xua,\n\nHoje completamos 2 anos e 2 meses. E mesmo que pareça muito tempo, dentro de mim ainda existe a sensação bonita de estar descobrindo você todos os dias, minha gatona.\n\nEu queria fazer algo diferente porque você merece. Merece cuidado, atenção, amor e uma homenagem que mostre o quanto você é importante para mim. Você não é só parte da minha rotina; você é parte dos meus planos, das minhas orações, dos meus sonhos e da pessoa que eu quero me tornar.\n\nObrigado por cada momento, por cada detalhe, por cada fase que passamos juntos, minha lindona. Que esse seja só mais um episódio de uma história enorme, linda e verdadeira.\n\nEu te amo muito, minha princesinha.\n\nCom amor,\nJosean.`
