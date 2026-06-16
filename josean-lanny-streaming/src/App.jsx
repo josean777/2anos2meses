@@ -298,7 +298,7 @@ function Aurora() {
 function Footer() {
   return (
     <footer className="footer">
-      <p>Produção original de Josean para sua neguinha • {couple.celebration}</p>
+      <p>De Josean para sua neguinha • {couple.celebration}</p>
     </footer>
   )
 }
