@@ -271,7 +271,7 @@ function LetterModal({ onClose }) {
           <X size={22} />
         </button>
         <div className="letter-top">
-          <Sparkles size={22} />
+        
           <span>Mensagem exclusiva</span>
         </div>
         <h2>Para minha xuazinha</h2>
