@@ -1,5 +1,5 @@
 export const couple = {
-  brand: 'J&L STREAM',
+  brand: 'NAMOFLIX',
   subtitle: 'Uma história original de Josean e sua Princesinha',
   names: 'Josean & Lanny',
   startDate: '2024-04-15T00:00:00-03:00',
