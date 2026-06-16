@@ -121,7 +121,7 @@ function Hero({ stats, onLetter }) {
           <span>{relationText}</span>
           <span>Romance real</span>
           <span>Classificação: para sempre</span>
-          <span>4K de sentimentos</span>
+          <span>Milhares de sentimentos</span>
         </div>
         <div className="hero-actions">
           <button className="btn primary" onClick={onLetter}>
